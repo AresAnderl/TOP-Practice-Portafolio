@@ -1,0 +1,132 @@
+body {font-family: 'Times New Roman', Times, serif;
+margin: 0;
+box-sizing: border-box;}
+
+/* First Part */
+.header, .footer {display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+gap: 50px;
+background-color: #1f2937;
+padding: 30px;
+flex: 1;
+}
+
+.top-header{display: flex;
+justify-content: space-evenly;}
+
+.header-logo {font-size: 24px;
+color: #f9dad8;
+margin: 0;
+margin-right: 250px;}
+
+ul {list-style-type: none;
+display: flex;
+flex-wrap: nowrap;
+gap: 20px;
+margin: 0;
+margin-left: 170px;}
+
+.header-image {width: 450px;
+height: 250px;}
+
+.bottom-header {display: flex;
+justify-content: space-evenly;
+flex-wrap: nowrap;}
+
+.title-header{font-size: 48px;
+font-weight: bolder;
+color: #f9faf8;}
+
+.text-header, ul {font-size: 18px;
+color: #e5e7eb;
+width: 400px;}
+
+button {margin-top: 10px;
+border-radius: 8px;
+padding: 8px;
+border: solid 1px #3882f6;
+color: white;
+background-color: #3882f6;
+font-weight: 700;}
+
+.upper-middle {display: flex;
+    flex-direction: column;}
+
+.middle-title {font-size: 36px;
+font-weight: bolder;
+color: #1f2937;
+align-self: center;
+margin: 30px 0;}
+
+.images-middle {width: 150px;
+height: 150px;
+border: solid 3px #3882f6;
+border-radius: 18px;}
+
+.text-and-images {display: flex;
+text-align: center;
+flex-wrap: nowrap;
+gap: 52px;
+justify-content: center;}
+
+.random-info {max-width: 150px;}
+
+.bottom-middle {display: flex;
+flex-direction: column;    
+text-align: center;
+background-color: #e5e7eb;
+margin-top: 20px;
+padding: 20px;}
+
+.quote {font-size: 36px;
+font-style: light italic;
+color: #1f2937;}
+
+.author{display: flex;
+justify-content: end;
+margin-right: 200px;
+font-size: 20px;
+font-weight: 600;}
+
+container-gif {text-align: center;}
+
+.hanekawa {width: 200px;
+height: 200px;}
+
+.final-part {display: flex;
+justify-content: center;
+padding: 100px;}
+
+.container-final {display: flex;
+    background-color: #3882f6;
+    width: 700px;
+    padding: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 12px;}
+
+.left-part {color: white;}
+
+.right-part
+
+.final-title {font-weight: bolder;}
+
+.final-text {color: rgba(245, 245, 245, 0.527);}
+
+.last-button {border: solid 2px white;
+border-radius: 10px;
+width: 100px;
+height: 30px;
+text-align: center;
+}
+
+.footer {text-align: center;
+color: white;
+font-weight: ;
+}
+
+
+
+
+
